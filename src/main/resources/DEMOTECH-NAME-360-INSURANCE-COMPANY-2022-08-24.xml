@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbrli:xbrl xmlns="http://xbrl.sec.gov/ratings/2015-03-31" xmlns:link="http://www.xbrl.org/2003/linkbase" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xbrli="http://www.xbrl.org/2003/instance" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://xbrl.sec.gov/ratings/2015-03-31 http://xbrl.sec.gov/rocr/2015/ratings-2015-03-31.xsd">
+  <link:schemaRef xlink:type="simple" xlink:href="http://xbrl.sec.gov/rocr/2015/ratings-2015-03-31.xsd"/>
+  <xbrli:context id="demotech">
+    <xbrli:entity>
+      <xbrli:identifier scheme="http://www.sec.gov/NRSRO">Demotech, Inc.</xbrli:identifier>
+    </xbrli:entity>
+    <xbrli:period>
+      <xbrli:startDate>2019-06-13</xbrli:startDate>
+      <xbrli:endDate>2022-06-09</xbrli:endDate>
+    </xbrli:period>
+  </xbrli:context>
+  <ROCRA>
+    <RAN contextRef="demotech">Demotech, Inc.</RAN>
+    <FCD contextRef="demotech">2022-08-24</FCD>
+    <OD>
+      <OSC contextRef="demotech">Insurance</OSC>
+      <OBNAME contextRef="demotech">360 INSURANCE COMPANY</OBNAME>
+      <OI contextRef="demotech">12504</OI>
+      <OIS contextRef="demotech">NRSRO</OIS>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2019-06-13</RAD>
+        <RAC contextRef="demotech">HS</RAC>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2019-09-13</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2019-11-25</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2020-03-19</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2020-06-03</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2020-09-03</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2020-12-07</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2021-03-26</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2021-05-26</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2021-09-01</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2021-12-02</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2022-03-30</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+      <ORD>
+        <IP contextRef="demotech">true</IP>
+        <R contextRef="demotech">A</R>
+        <RAD contextRef="demotech">2022-06-09</RAD>
+        <OAN contextRef="demotech">Affirm</OAN>
+        <RT contextRef="demotech">Financial Stability Rating</RT>
+      </ORD>
+    </OD>
+  </ROCRA>
+</xbrli:xbrl>
